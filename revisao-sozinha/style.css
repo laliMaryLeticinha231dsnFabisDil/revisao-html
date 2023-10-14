@@ -1,0 +1,72 @@
+@font-face {
+    font-family:Bold ;
+    src: url(Font/OpenSans-Bold.ttf);
+}
+@font-face {
+    font-family: Regular;
+    src: url(Font/OpenSans-Regular.ttf);
+}
+@font-face {
+    font-family: semiBold;
+    src: url(Font/OpenSans-SemiBold.ttf);
+}
+@font-face {
+    font-family: poppinsBold;
+    src: url(Font/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: poopins-semiBold;
+    src: url(Font/Poppins-SemiBold.ttf);
+}
+@font-face {
+    font-family: roboto-bold;
+    src: url(Font/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: roboto-medium;
+    src: url(Font/Roboto-Medium.ttf);
+}
+@font-face {
+    font-family: roboto-regular;
+    src: url(Font/Roboto-Regular.ttf);
+
+}
+@font-face {
+    font-family: roboto-semibold;
+    src: url(Font/RobotoMono-SemiBold.ttf);
+}
+
+
+
+/* header */
+
+.contato{
+    background-color: #106EEA;
+    width: 1460px;
+    height: 50px;
+    font-family: Regular;
+    color: white;
+     display: flex;
+     
+}
+.contat{
+  margin-left: 160px;
+}
+
+.titulo{
+    font-family:poppinsBold ;
+    margin-left: 250px;
+    font-size: 40px;
+}
+.cabecalho{
+    display: flex;
+    margin-left: 570px;
+    margin-top: -70px;
+    justify-content: center;
+   
+}
+
+.um, .dois, .tres, .quatro, .cinco{
+    margin: 20px;
+   font-family: Regular;
+}
