@@ -37,7 +37,6 @@
 }
 
 
-
 /* header */
 
 .contato{
@@ -70,3 +69,79 @@
     margin: 20px;
    font-family: Regular;
 }
+
+
+.imagem-cacalho{
+    width: 206vh;
+    height: 60vh;
+}
+
+
+
+
+/* começo do main */
+/* sobre nós */
+
+
+span{/* titulo */
+    color: #106EEA;
+}
+
+.sobre-nos{
+    font-family: roboto-bold;
+    display: flex;
+  margin-top: 30vh;
+}
+
+.imagem-equipe{
+    height: 70vh;
+    margin: 0 20vh;
+}
+
+.text{
+    margin-left: 30vh;
+    line-height: 32.68px;
+    font-family: Regular;
+}
+
+.titulo-sobreNos{
+    text-align: center;
+}
+
+/* ARRUMANDO OS ICONES */
+
+.icone{
+     
+    border: 1px solid #88acda;
+    width: 254px;
+    height: 244px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: inline-block;
+    margin: 5vh;
+    background-color: #8ca9ce60;
+    border-radius: 9px;
+    font-family: Roboto;
+}
+
+.fa-solid, .fa-regular{
+    font-size: 3vw;
+    margin-top: 3vw;
+  
+}
+
+.icones{
+    margin-left: 10vh;
+}
+
+/* NOSSO SERVIÇO */
+
+.nossoServico{
+align-items: center;
+text-align: center;
+justify-content: center;
+font-family: Roboto-bold;
+margin-top: 20vh;
+}
+
